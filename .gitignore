@@ -6,8 +6,7 @@ venv/
 # Node.js
 node_modules/
 .next/
-.env
-.env.local
 
 # OS
 .DS_Store
+config.bat
